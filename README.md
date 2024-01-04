@@ -28,7 +28,7 @@ Import this plugin in your `_config.ts` file to use it:
 
 ```ts
 import lume from "https://deno.land/x/lume/mod.ts";
-import shikiji from "https://deno.land/x/furiouzz/lume/plugins/shikiji/mod.ts";
+import shikiji from "https://deno.land/x/lume_shikiji/mod.ts";
 
 const site = lume();
 
